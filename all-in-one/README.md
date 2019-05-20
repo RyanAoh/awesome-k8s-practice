@@ -7,4 +7,5 @@
 + [网易云基于Kubernetes的深度定制化实践](https://segmentfault.com/a/1190000011001864)
 + [Kubernetes实战 谈谈微博应对春晚等突发峰值流量的经验](<https://www.kubernetes.org.cn/5036.html>)
 + [美团容器平台架构及容器技术实践](<https://tech.meituan.com/2018/11/15/docker-architecture-and-evolution-practice.html>)
++ [QCon技术干货：个推基于Docker和Kubernetes的微服务实践](<https://mp.weixin.qq.com/s/RCi3eFlrdwqD_tuGLTTK6Q?utm_source=tuicool&utm_medium=referral>)
 
